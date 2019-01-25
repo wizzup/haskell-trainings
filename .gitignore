@@ -1,21 +1,15 @@
-haskell_101/slides/*.log
-haskell_101/slides/*.aux
-haskell_101/slides/*.toc
-haskell_101/slides/*.nav
-haskell_101/slides/*.out
-haskell_101/slides/*.pdf
-haskell_101/slides/*.snm
-haskell_101/slides/*.vrb
-haskell_101/slides/auto/
-haskell_101/slides/_minted-*/
+# `make` artifacts
+*.hi
+*.o
+*.aux
+*.log
+*.nav
+*.toc
+*.out
+*.snm
+*.vrb
 
-haskell_102/slides/*.log
-haskell_102/slides/*.aux
-haskell_102/slides/*.toc
-haskell_102/slides/*.nav
-haskell_102/slides/*.out
-haskell_102/slides/*.pdf
-haskell_102/slides/*.snm
-haskell_102/slides/*.vrb
-haskell_102/slides/auto/
-haskell_102/slides/_minted-*/
+# `make` outputs
+haskell_10?/codelab/codelab
+haskell_10?/codelab/solution
+haskell_102/codelab/test_*
