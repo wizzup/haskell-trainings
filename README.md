@@ -6,7 +6,19 @@ languages, but a dedicated team of volunteers is making use of 20% time to try
 to make Haskell at Google possible! This set of lessons was created in 2016, to
 allow newcomers to the language to get involved with the team.
 
+### Video
+
+- [Haskell 101](http://youtu.be/cTN1Qar4HSw),
+- [Haskell 102](http://youtu.be/Ug9yJnOYR4U)
+
 ### Slides
+
+### Prebuild
+
+- [Haskell 101](./haskell_101/slides/haskell_101.pdf)
+- [Haskell 102](./haskell_102/slides/haskell_102.pdf)
+
+### Building
 
 The slides use LaTeX. You'll need `xelatex` installed to build them. Simply run
 `make` to create the PDFs. You must also have the [Yanone Kaffeesatz](https://yanone.de/fonts/kaffeesatz/)
@@ -24,7 +36,5 @@ download the generated PDFs and the codelabs.
 
 # Warning
 
-This code is presented as-is, without the speaker notes. Public recordings of
-the training are available: [Haskell 101](http://youtu.be/cTN1Qar4HSw),
-[Haskell 102](http://youtu.be/Ug9yJnOYR4U). This is not an officially supported
-Google product.
+This code is presented as-is, without the speaker notes.
+This is not an officially supported Google product.
